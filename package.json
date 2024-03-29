@@ -1,6 +1,6 @@
 {
   "name": "fajjey-cli-atm",
-  "version": "3.0.0",
+  "version": "1.0.1",
   "description": "ATM Machine",
   "main": "index.js",
   "type": "module",
